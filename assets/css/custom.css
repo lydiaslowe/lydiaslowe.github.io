@@ -7,13 +7,14 @@ h1 h2 h3 h4 h5 h6 {
 }
 
 .custom-title {
-   font-size:6em;
+   font-size:2.5em;
    text-align: center;
 }
 
 .custom-title > h1 {
    color: black;
-   margin-top:1em;
+   margin-top:3em;
+   margin-bottom: 2em;
 }
 
 .custom-nav {
