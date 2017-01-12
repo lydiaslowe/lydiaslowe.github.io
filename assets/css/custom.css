@@ -1,0 +1,21 @@
+h1 h2 h3 h4 h5 h6 {
+   color: black;
+}
+
+.custom-banner-content {
+   margin-top: 0;
+}
+
+.custom-title {
+   font-size:6em;
+   text-align: center;
+}
+
+.custom-title > h1 {
+   color: black;
+   margin-top:1em;
+}
+
+.custom-nav {
+   color:black;
+}
